@@ -9,5 +9,7 @@ Utilizing the data provided, a sorted list of mapped course objectives relating 
 Competency: Understand differnent types of contracts.
 Compentency Search Terms: contract type, types of contracts, fixed price, fixed-price, cost-reimbursement, time-and-materials, labor-hour
 Objecteves Matched: 
-1Differentiate between different types of contracts 2Explain different contracting methods and contract types.
+1. Differentiate between different types of contracts. 
+2. Explain different contracting methods and contract types.
+3. 
 
