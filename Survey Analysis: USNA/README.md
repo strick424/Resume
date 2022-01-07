@@ -8,7 +8,7 @@ Using R, we create an n-gram network overlayed with sentiment scores (positive, 
 
 **Impact**
 
-The results of this survey played a critical role in the planning of furture iterations of USNA summer training. Specifically, more exposure to specific activities such as physical fitness, aviation, and peer leadership were redesigned in the subsequent years: 2020 and 2021. Additionally, the results were presented to the USNA Data Science seminar where multiple organization began requesting help for analyzing their own surveys - spawning a new era of text mining at USNA. 
+The results of this survey played a critical role in the planning of future iterations of USNA summer training. Specifically, more exposure to specific activities such as physical fitness, aviation, and peer leadership were redesigned in the subsequent years: 2020 and 2021. Additionally, the results were presented to the USNA Data Science seminar where multiple organization began requesting help for analyzing their own surveys - spawning a new era of text mining at USNA. 
 
 **File Overview**
 
