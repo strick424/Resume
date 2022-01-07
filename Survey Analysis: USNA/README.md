@@ -12,8 +12,8 @@ The results of this survey played a critical role in the planning of furture ite
 
 **File Overview**
 
-1. Analysis_of_Leatherneck_Comments.pdf: final report submitted to senior Marine Corps leadership at USNA.
-2. LNK_Comments.R: R code used to evaluate and analyze survey responses. 
-3. LNK_Comments_Sample.csv: a sample data set of survey responses.
-4. Text_Analysis.Rmd: a 'How-To' R markdown file provided as to help guide USNA analyst who want to learn more about text mining. 
-5. Text_Processing.pdf: presentation given to the USNA Data Science Seminar on December 5, 2019. 
+1. *Analysis_of_Leatherneck_Comments.pdf*: final report submitted to senior Marine Corps leadership at USNA.
+2. *LNK_Comments.R*: R code used to evaluate and analyze survey responses. 
+3. *LNK_Comments_Sample.csv*: a sample data set of survey responses.
+4. *Text_Analysis.Rmd*: a 'How-To' R markdown file provided as to help guide USNA analyst who want to learn more about text mining. 
+5. *Text_Processing.pdf*: presentation given to the USNA Data Science Seminar on December 5, 2019. 
