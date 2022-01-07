@@ -1,1 +1,1 @@
-M/M/1 queuing model developed to analyze utilization rates, mean wait times, and average queue lengths for the city’s fire and medical first responder system. 
+M/M/1 queuing model developed to analyze utilization rates, mean wait times, and average queue lengths for the City of Garland's fire and medical first responder system. The conclusions drawn from this anlaysis help influence and support decisions by senior leadership in the Garland Fire Department.
