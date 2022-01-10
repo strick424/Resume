@@ -13,5 +13,5 @@ Currently under consideratoin at The Basic School -  the tool is able to reduce 
 **File Overview**
 
 1. *BMAT.pdf*: Overview flyer.
-2. *MOS_Interface_V4.3.xlsm*: Primary Excel document containing BMAT and associated interface. 
+2. *MOS_Interface_V4.3.xlsm*: Excel document containing BMAT and associated interface. 
 3. *MOS_Results 30-11-2021.xlsm*: model results based on user created data.
