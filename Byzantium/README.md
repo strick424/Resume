@@ -8,4 +8,4 @@ While the idea is in it's infant stages and carving many paths, a robust data wo
 
 1. *Twitter_Pull_Script.py*: interaction with the Twitter API and DynamoDB: tweets are retrieved, packaged, and uploaded via this script.
 2. *Tweet_Metrics.py*: script to build tweet metrics for each user which is then passed to the dashboard.
-3. *app.py*: script executing the dashboard via dash-plotly.
+3. *app.py*: script executing the dashboard via plotly-dash.
