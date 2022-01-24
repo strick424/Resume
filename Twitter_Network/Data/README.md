@@ -1,1 +1,1 @@
-json files holding tweet data for various restaraunts in downtown Annapolis.
+json files holding tweet data for various restaurants in downtown Annapolis.
