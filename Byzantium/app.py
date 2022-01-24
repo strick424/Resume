@@ -20,7 +20,6 @@ from matplotlib.pyplot import figure
 
 
 df = pd.read_csv('results.csv')
-#df = TweetMetrics('POTUS').df
 
 users = ['POTUS', 'JoeBiden', 
          'WhiteHouse',
@@ -552,7 +551,6 @@ def get_tag_plot(selected_username, select, qty):
     fig.update_layout(height=450, margin={'l': 20, 'b': 10, 'r': 10, 't': 35}, title_y=.965)
     return fig
 
+
 if __name__ == '__main__':
-    #app.run_server(debug = False, port=8050)
     app.run_server(host='0.0.0.0', port=8050, debug = False)
-    #app.run_server(host="52.204.49.146", port=8050)
