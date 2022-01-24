@@ -1,7 +1,7 @@
 
 **Overview**
 
-Course material for a network class to educate Operation Research students on network analysis utilizing tweets from followers of different restaraunts in downtown Annapolis, MD. 
+Course material for a network class to educate Operation Research students on network analysis utilizing tweets from followers of different restaurants in downtown Annapolis, MD. 
 
 **Features** 
 
