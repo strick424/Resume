@@ -1,4 +1,4 @@
-*Classroom demonstration of standing up a full stack utilizing AWS. The ETL process is discussed along with the implementation of plotly to interact with the data pulled from the Twitter API.*
+*Classroom demonstration of standing up a full stack utilizing AWS. The ETL process is discussed along with the implementation of dash-plotly to construct a dashboard to interact with the data pulled from Twitter.*
 
 ## Overview
 A one-stop-shop to enable voters the ability to interact with what their elected leaders are saying on Twitter. Likes and retweets are not enough in the new age of social media, both elected officials and voters are easily lost in the noise that is cast through current platforms. Our platform offers voters an opportunity to make an impact with the leaders they elected, and elected officials have a platform to speak directly to their constituents without user interference.
